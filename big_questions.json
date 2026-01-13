@@ -1,0 +1,1410 @@
+{
+  "HR": [
+    {
+      "id": 1,
+      "question": "HR interview question 1?",
+      "ideal_answer": "This is a well-structured ideal answer for HR question 1."
+    },
+    {
+      "id": 2,
+      "question": "HR interview question 2?",
+      "ideal_answer": "This is a well-structured ideal answer for HR question 2."
+    },
+    {
+      "id": 3,
+      "question": "HR interview question 3?",
+      "ideal_answer": "This is a well-structured ideal answer for HR question 3."
+    },
+    {
+      "id": 4,
+      "question": "HR interview question 4?",
+      "ideal_answer": "This is a well-structured ideal answer for HR question 4."
+    },
+    {
+      "id": 5,
+      "question": "HR interview question 5?",
+      "ideal_answer": "This is a well-structured ideal answer for HR question 5."
+    },
+    {
+      "id": 6,
+      "question": "HR interview question 6?",
+      "ideal_answer": "This is a well-structured ideal answer for HR question 6."
+    },
+    {
+      "id": 7,
+      "question": "HR interview question 7?",
+      "ideal_answer": "This is a well-structured ideal answer for HR question 7."
+    },
+    {
+      "id": 8,
+      "question": "HR interview question 8?",
+      "ideal_answer": "This is a well-structured ideal answer for HR question 8."
+    },
+    {
+      "id": 9,
+      "question": "HR interview question 9?",
+      "ideal_answer": "This is a well-structured ideal answer for HR question 9."
+    },
+    {
+      "id": 10,
+      "question": "HR interview question 10?",
+      "ideal_answer": "This is a well-structured ideal answer for HR question 10."
+    },
+    {
+      "id": 11,
+      "question": "HR interview question 11?",
+      "ideal_answer": "This is a well-structured ideal answer for HR question 11."
+    },
+    {
+      "id": 12,
+      "question": "HR interview question 12?",
+      "ideal_answer": "This is a well-structured ideal answer for HR question 12."
+    },
+    {
+      "id": 13,
+      "question": "HR interview question 13?",
+      "ideal_answer": "This is a well-structured ideal answer for HR question 13."
+    },
+    {
+      "id": 14,
+      "question": "HR interview question 14?",
+      "ideal_answer": "This is a well-structured ideal answer for HR question 14."
+    },
+    {
+      "id": 15,
+      "question": "HR interview question 15?",
+      "ideal_answer": "This is a well-structured ideal answer for HR question 15."
+    },
+    {
+      "id": 16,
+      "question": "HR interview question 16?",
+      "ideal_answer": "This is a well-structured ideal answer for HR question 16."
+    },
+    {
+      "id": 17,
+      "question": "HR interview question 17?",
+      "ideal_answer": "This is a well-structured ideal answer for HR question 17."
+    },
+    {
+      "id": 18,
+      "question": "HR interview question 18?",
+      "ideal_answer": "This is a well-structured ideal answer for HR question 18."
+    },
+    {
+      "id": 19,
+      "question": "HR interview question 19?",
+      "ideal_answer": "This is a well-structured ideal answer for HR question 19."
+    },
+    {
+      "id": 20,
+      "question": "HR interview question 20?",
+      "ideal_answer": "This is a well-structured ideal answer for HR question 20."
+    },
+    {
+      "id": 21,
+      "question": "HR interview question 21?",
+      "ideal_answer": "This is a well-structured ideal answer for HR question 21."
+    },
+    {
+      "id": 22,
+      "question": "HR interview question 22?",
+      "ideal_answer": "This is a well-structured ideal answer for HR question 22."
+    },
+    {
+      "id": 23,
+      "question": "HR interview question 23?",
+      "ideal_answer": "This is a well-structured ideal answer for HR question 23."
+    },
+    {
+      "id": 24,
+      "question": "HR interview question 24?",
+      "ideal_answer": "This is a well-structured ideal answer for HR question 24."
+    },
+    {
+      "id": 25,
+      "question": "HR interview question 25?",
+      "ideal_answer": "This is a well-structured ideal answer for HR question 25."
+    },
+    {
+      "id": 26,
+      "question": "HR interview question 26?",
+      "ideal_answer": "This is a well-structured ideal answer for HR question 26."
+    },
+    {
+      "id": 27,
+      "question": "HR interview question 27?",
+      "ideal_answer": "This is a well-structured ideal answer for HR question 27."
+    },
+    {
+      "id": 28,
+      "question": "HR interview question 28?",
+      "ideal_answer": "This is a well-structured ideal answer for HR question 28."
+    },
+    {
+      "id": 29,
+      "question": "HR interview question 29?",
+      "ideal_answer": "This is a well-structured ideal answer for HR question 29."
+    },
+    {
+      "id": 30,
+      "question": "HR interview question 30?",
+      "ideal_answer": "This is a well-structured ideal answer for HR question 30."
+    },
+    {
+      "id": 31,
+      "question": "HR interview question 31?",
+      "ideal_answer": "This is a well-structured ideal answer for HR question 31."
+    },
+    {
+      "id": 32,
+      "question": "HR interview question 32?",
+      "ideal_answer": "This is a well-structured ideal answer for HR question 32."
+    },
+    {
+      "id": 33,
+      "question": "HR interview question 33?",
+      "ideal_answer": "This is a well-structured ideal answer for HR question 33."
+    },
+    {
+      "id": 34,
+      "question": "HR interview question 34?",
+      "ideal_answer": "This is a well-structured ideal answer for HR question 34."
+    },
+    {
+      "id": 35,
+      "question": "HR interview question 35?",
+      "ideal_answer": "This is a well-structured ideal answer for HR question 35."
+    },
+    {
+      "id": 36,
+      "question": "HR interview question 36?",
+      "ideal_answer": "This is a well-structured ideal answer for HR question 36."
+    },
+    {
+      "id": 37,
+      "question": "HR interview question 37?",
+      "ideal_answer": "This is a well-structured ideal answer for HR question 37."
+    },
+    {
+      "id": 38,
+      "question": "HR interview question 38?",
+      "ideal_answer": "This is a well-structured ideal answer for HR question 38."
+    },
+    {
+      "id": 39,
+      "question": "HR interview question 39?",
+      "ideal_answer": "This is a well-structured ideal answer for HR question 39."
+    },
+    {
+      "id": 40,
+      "question": "HR interview question 40?",
+      "ideal_answer": "This is a well-structured ideal answer for HR question 40."
+    },
+    {
+      "id": 41,
+      "question": "HR interview question 41?",
+      "ideal_answer": "This is a well-structured ideal answer for HR question 41."
+    },
+    {
+      "id": 42,
+      "question": "HR interview question 42?",
+      "ideal_answer": "This is a well-structured ideal answer for HR question 42."
+    },
+    {
+      "id": 43,
+      "question": "HR interview question 43?",
+      "ideal_answer": "This is a well-structured ideal answer for HR question 43."
+    },
+    {
+      "id": 44,
+      "question": "HR interview question 44?",
+      "ideal_answer": "This is a well-structured ideal answer for HR question 44."
+    },
+    {
+      "id": 45,
+      "question": "HR interview question 45?",
+      "ideal_answer": "This is a well-structured ideal answer for HR question 45."
+    },
+    {
+      "id": 46,
+      "question": "HR interview question 46?",
+      "ideal_answer": "This is a well-structured ideal answer for HR question 46."
+    },
+    {
+      "id": 47,
+      "question": "HR interview question 47?",
+      "ideal_answer": "This is a well-structured ideal answer for HR question 47."
+    },
+    {
+      "id": 48,
+      "question": "HR interview question 48?",
+      "ideal_answer": "This is a well-structured ideal answer for HR question 48."
+    },
+    {
+      "id": 49,
+      "question": "HR interview question 49?",
+      "ideal_answer": "This is a well-structured ideal answer for HR question 49."
+    },
+    {
+      "id": 50,
+      "question": "HR interview question 50?",
+      "ideal_answer": "This is a well-structured ideal answer for HR question 50."
+    },
+    {
+      "id": 51,
+      "question": "HR interview question 51?",
+      "ideal_answer": "This is a well-structured ideal answer for HR question 51."
+    },
+    {
+      "id": 52,
+      "question": "HR interview question 52?",
+      "ideal_answer": "This is a well-structured ideal answer for HR question 52."
+    },
+    {
+      "id": 53,
+      "question": "HR interview question 53?",
+      "ideal_answer": "This is a well-structured ideal answer for HR question 53."
+    },
+    {
+      "id": 54,
+      "question": "HR interview question 54?",
+      "ideal_answer": "This is a well-structured ideal answer for HR question 54."
+    },
+    {
+      "id": 55,
+      "question": "HR interview question 55?",
+      "ideal_answer": "This is a well-structured ideal answer for HR question 55."
+    },
+    {
+      "id": 56,
+      "question": "HR interview question 56?",
+      "ideal_answer": "This is a well-structured ideal answer for HR question 56."
+    },
+    {
+      "id": 57,
+      "question": "HR interview question 57?",
+      "ideal_answer": "This is a well-structured ideal answer for HR question 57."
+    },
+    {
+      "id": 58,
+      "question": "HR interview question 58?",
+      "ideal_answer": "This is a well-structured ideal answer for HR question 58."
+    },
+    {
+      "id": 59,
+      "question": "HR interview question 59?",
+      "ideal_answer": "This is a well-structured ideal answer for HR question 59."
+    },
+    {
+      "id": 60,
+      "question": "HR interview question 60?",
+      "ideal_answer": "This is a well-structured ideal answer for HR question 60."
+    },
+    {
+      "id": 61,
+      "question": "HR interview question 61?",
+      "ideal_answer": "This is a well-structured ideal answer for HR question 61."
+    },
+    {
+      "id": 62,
+      "question": "HR interview question 62?",
+      "ideal_answer": "This is a well-structured ideal answer for HR question 62."
+    },
+    {
+      "id": 63,
+      "question": "HR interview question 63?",
+      "ideal_answer": "This is a well-structured ideal answer for HR question 63."
+    },
+    {
+      "id": 64,
+      "question": "HR interview question 64?",
+      "ideal_answer": "This is a well-structured ideal answer for HR question 64."
+    },
+    {
+      "id": 65,
+      "question": "HR interview question 65?",
+      "ideal_answer": "This is a well-structured ideal answer for HR question 65."
+    },
+    {
+      "id": 66,
+      "question": "HR interview question 66?",
+      "ideal_answer": "This is a well-structured ideal answer for HR question 66."
+    },
+    {
+      "id": 67,
+      "question": "HR interview question 67?",
+      "ideal_answer": "This is a well-structured ideal answer for HR question 67."
+    },
+    {
+      "id": 68,
+      "question": "HR interview question 68?",
+      "ideal_answer": "This is a well-structured ideal answer for HR question 68."
+    },
+    {
+      "id": 69,
+      "question": "HR interview question 69?",
+      "ideal_answer": "This is a well-structured ideal answer for HR question 69."
+    },
+    {
+      "id": 70,
+      "question": "HR interview question 70?",
+      "ideal_answer": "This is a well-structured ideal answer for HR question 70."
+    }
+  ],
+  "Python": [
+    {
+      "id": 1,
+      "question": "Python interview question 1?",
+      "ideal_answer": "This is a well-structured ideal answer for Python question 1."
+    },
+    {
+      "id": 2,
+      "question": "Python interview question 2?",
+      "ideal_answer": "This is a well-structured ideal answer for Python question 2."
+    },
+    {
+      "id": 3,
+      "question": "Python interview question 3?",
+      "ideal_answer": "This is a well-structured ideal answer for Python question 3."
+    },
+    {
+      "id": 4,
+      "question": "Python interview question 4?",
+      "ideal_answer": "This is a well-structured ideal answer for Python question 4."
+    },
+    {
+      "id": 5,
+      "question": "Python interview question 5?",
+      "ideal_answer": "This is a well-structured ideal answer for Python question 5."
+    },
+    {
+      "id": 6,
+      "question": "Python interview question 6?",
+      "ideal_answer": "This is a well-structured ideal answer for Python question 6."
+    },
+    {
+      "id": 7,
+      "question": "Python interview question 7?",
+      "ideal_answer": "This is a well-structured ideal answer for Python question 7."
+    },
+    {
+      "id": 8,
+      "question": "Python interview question 8?",
+      "ideal_answer": "This is a well-structured ideal answer for Python question 8."
+    },
+    {
+      "id": 9,
+      "question": "Python interview question 9?",
+      "ideal_answer": "This is a well-structured ideal answer for Python question 9."
+    },
+    {
+      "id": 10,
+      "question": "Python interview question 10?",
+      "ideal_answer": "This is a well-structured ideal answer for Python question 10."
+    },
+    {
+      "id": 11,
+      "question": "Python interview question 11?",
+      "ideal_answer": "This is a well-structured ideal answer for Python question 11."
+    },
+    {
+      "id": 12,
+      "question": "Python interview question 12?",
+      "ideal_answer": "This is a well-structured ideal answer for Python question 12."
+    },
+    {
+      "id": 13,
+      "question": "Python interview question 13?",
+      "ideal_answer": "This is a well-structured ideal answer for Python question 13."
+    },
+    {
+      "id": 14,
+      "question": "Python interview question 14?",
+      "ideal_answer": "This is a well-structured ideal answer for Python question 14."
+    },
+    {
+      "id": 15,
+      "question": "Python interview question 15?",
+      "ideal_answer": "This is a well-structured ideal answer for Python question 15."
+    },
+    {
+      "id": 16,
+      "question": "Python interview question 16?",
+      "ideal_answer": "This is a well-structured ideal answer for Python question 16."
+    },
+    {
+      "id": 17,
+      "question": "Python interview question 17?",
+      "ideal_answer": "This is a well-structured ideal answer for Python question 17."
+    },
+    {
+      "id": 18,
+      "question": "Python interview question 18?",
+      "ideal_answer": "This is a well-structured ideal answer for Python question 18."
+    },
+    {
+      "id": 19,
+      "question": "Python interview question 19?",
+      "ideal_answer": "This is a well-structured ideal answer for Python question 19."
+    },
+    {
+      "id": 20,
+      "question": "Python interview question 20?",
+      "ideal_answer": "This is a well-structured ideal answer for Python question 20."
+    },
+    {
+      "id": 21,
+      "question": "Python interview question 21?",
+      "ideal_answer": "This is a well-structured ideal answer for Python question 21."
+    },
+    {
+      "id": 22,
+      "question": "Python interview question 22?",
+      "ideal_answer": "This is a well-structured ideal answer for Python question 22."
+    },
+    {
+      "id": 23,
+      "question": "Python interview question 23?",
+      "ideal_answer": "This is a well-structured ideal answer for Python question 23."
+    },
+    {
+      "id": 24,
+      "question": "Python interview question 24?",
+      "ideal_answer": "This is a well-structured ideal answer for Python question 24."
+    },
+    {
+      "id": 25,
+      "question": "Python interview question 25?",
+      "ideal_answer": "This is a well-structured ideal answer for Python question 25."
+    },
+    {
+      "id": 26,
+      "question": "Python interview question 26?",
+      "ideal_answer": "This is a well-structured ideal answer for Python question 26."
+    },
+    {
+      "id": 27,
+      "question": "Python interview question 27?",
+      "ideal_answer": "This is a well-structured ideal answer for Python question 27."
+    },
+    {
+      "id": 28,
+      "question": "Python interview question 28?",
+      "ideal_answer": "This is a well-structured ideal answer for Python question 28."
+    },
+    {
+      "id": 29,
+      "question": "Python interview question 29?",
+      "ideal_answer": "This is a well-structured ideal answer for Python question 29."
+    },
+    {
+      "id": 30,
+      "question": "Python interview question 30?",
+      "ideal_answer": "This is a well-structured ideal answer for Python question 30."
+    },
+    {
+      "id": 31,
+      "question": "Python interview question 31?",
+      "ideal_answer": "This is a well-structured ideal answer for Python question 31."
+    },
+    {
+      "id": 32,
+      "question": "Python interview question 32?",
+      "ideal_answer": "This is a well-structured ideal answer for Python question 32."
+    },
+    {
+      "id": 33,
+      "question": "Python interview question 33?",
+      "ideal_answer": "This is a well-structured ideal answer for Python question 33."
+    },
+    {
+      "id": 34,
+      "question": "Python interview question 34?",
+      "ideal_answer": "This is a well-structured ideal answer for Python question 34."
+    },
+    {
+      "id": 35,
+      "question": "Python interview question 35?",
+      "ideal_answer": "This is a well-structured ideal answer for Python question 35."
+    },
+    {
+      "id": 36,
+      "question": "Python interview question 36?",
+      "ideal_answer": "This is a well-structured ideal answer for Python question 36."
+    },
+    {
+      "id": 37,
+      "question": "Python interview question 37?",
+      "ideal_answer": "This is a well-structured ideal answer for Python question 37."
+    },
+    {
+      "id": 38,
+      "question": "Python interview question 38?",
+      "ideal_answer": "This is a well-structured ideal answer for Python question 38."
+    },
+    {
+      "id": 39,
+      "question": "Python interview question 39?",
+      "ideal_answer": "This is a well-structured ideal answer for Python question 39."
+    },
+    {
+      "id": 40,
+      "question": "Python interview question 40?",
+      "ideal_answer": "This is a well-structured ideal answer for Python question 40."
+    },
+    {
+      "id": 41,
+      "question": "Python interview question 41?",
+      "ideal_answer": "This is a well-structured ideal answer for Python question 41."
+    },
+    {
+      "id": 42,
+      "question": "Python interview question 42?",
+      "ideal_answer": "This is a well-structured ideal answer for Python question 42."
+    },
+    {
+      "id": 43,
+      "question": "Python interview question 43?",
+      "ideal_answer": "This is a well-structured ideal answer for Python question 43."
+    },
+    {
+      "id": 44,
+      "question": "Python interview question 44?",
+      "ideal_answer": "This is a well-structured ideal answer for Python question 44."
+    },
+    {
+      "id": 45,
+      "question": "Python interview question 45?",
+      "ideal_answer": "This is a well-structured ideal answer for Python question 45."
+    },
+    {
+      "id": 46,
+      "question": "Python interview question 46?",
+      "ideal_answer": "This is a well-structured ideal answer for Python question 46."
+    },
+    {
+      "id": 47,
+      "question": "Python interview question 47?",
+      "ideal_answer": "This is a well-structured ideal answer for Python question 47."
+    },
+    {
+      "id": 48,
+      "question": "Python interview question 48?",
+      "ideal_answer": "This is a well-structured ideal answer for Python question 48."
+    },
+    {
+      "id": 49,
+      "question": "Python interview question 49?",
+      "ideal_answer": "This is a well-structured ideal answer for Python question 49."
+    },
+    {
+      "id": 50,
+      "question": "Python interview question 50?",
+      "ideal_answer": "This is a well-structured ideal answer for Python question 50."
+    },
+    {
+      "id": 51,
+      "question": "Python interview question 51?",
+      "ideal_answer": "This is a well-structured ideal answer for Python question 51."
+    },
+    {
+      "id": 52,
+      "question": "Python interview question 52?",
+      "ideal_answer": "This is a well-structured ideal answer for Python question 52."
+    },
+    {
+      "id": 53,
+      "question": "Python interview question 53?",
+      "ideal_answer": "This is a well-structured ideal answer for Python question 53."
+    },
+    {
+      "id": 54,
+      "question": "Python interview question 54?",
+      "ideal_answer": "This is a well-structured ideal answer for Python question 54."
+    },
+    {
+      "id": 55,
+      "question": "Python interview question 55?",
+      "ideal_answer": "This is a well-structured ideal answer for Python question 55."
+    },
+    {
+      "id": 56,
+      "question": "Python interview question 56?",
+      "ideal_answer": "This is a well-structured ideal answer for Python question 56."
+    },
+    {
+      "id": 57,
+      "question": "Python interview question 57?",
+      "ideal_answer": "This is a well-structured ideal answer for Python question 57."
+    },
+    {
+      "id": 58,
+      "question": "Python interview question 58?",
+      "ideal_answer": "This is a well-structured ideal answer for Python question 58."
+    },
+    {
+      "id": 59,
+      "question": "Python interview question 59?",
+      "ideal_answer": "This is a well-structured ideal answer for Python question 59."
+    },
+    {
+      "id": 60,
+      "question": "Python interview question 60?",
+      "ideal_answer": "This is a well-structured ideal answer for Python question 60."
+    },
+    {
+      "id": 61,
+      "question": "Python interview question 61?",
+      "ideal_answer": "This is a well-structured ideal answer for Python question 61."
+    },
+    {
+      "id": 62,
+      "question": "Python interview question 62?",
+      "ideal_answer": "This is a well-structured ideal answer for Python question 62."
+    },
+    {
+      "id": 63,
+      "question": "Python interview question 63?",
+      "ideal_answer": "This is a well-structured ideal answer for Python question 63."
+    },
+    {
+      "id": 64,
+      "question": "Python interview question 64?",
+      "ideal_answer": "This is a well-structured ideal answer for Python question 64."
+    },
+    {
+      "id": 65,
+      "question": "Python interview question 65?",
+      "ideal_answer": "This is a well-structured ideal answer for Python question 65."
+    },
+    {
+      "id": 66,
+      "question": "Python interview question 66?",
+      "ideal_answer": "This is a well-structured ideal answer for Python question 66."
+    },
+    {
+      "id": 67,
+      "question": "Python interview question 67?",
+      "ideal_answer": "This is a well-structured ideal answer for Python question 67."
+    },
+    {
+      "id": 68,
+      "question": "Python interview question 68?",
+      "ideal_answer": "This is a well-structured ideal answer for Python question 68."
+    },
+    {
+      "id": 69,
+      "question": "Python interview question 69?",
+      "ideal_answer": "This is a well-structured ideal answer for Python question 69."
+    },
+    {
+      "id": 70,
+      "question": "Python interview question 70?",
+      "ideal_answer": "This is a well-structured ideal answer for Python question 70."
+    }
+  ],
+  "Machine Learning": [
+    {
+      "id": 1,
+      "question": "Machine Learning interview question 1?",
+      "ideal_answer": "This is a well-structured ideal answer for Machine Learning question 1."
+    },
+    {
+      "id": 2,
+      "question": "Machine Learning interview question 2?",
+      "ideal_answer": "This is a well-structured ideal answer for Machine Learning question 2."
+    },
+    {
+      "id": 3,
+      "question": "Machine Learning interview question 3?",
+      "ideal_answer": "This is a well-structured ideal answer for Machine Learning question 3."
+    },
+    {
+      "id": 4,
+      "question": "Machine Learning interview question 4?",
+      "ideal_answer": "This is a well-structured ideal answer for Machine Learning question 4."
+    },
+    {
+      "id": 5,
+      "question": "Machine Learning interview question 5?",
+      "ideal_answer": "This is a well-structured ideal answer for Machine Learning question 5."
+    },
+    {
+      "id": 6,
+      "question": "Machine Learning interview question 6?",
+      "ideal_answer": "This is a well-structured ideal answer for Machine Learning question 6."
+    },
+    {
+      "id": 7,
+      "question": "Machine Learning interview question 7?",
+      "ideal_answer": "This is a well-structured ideal answer for Machine Learning question 7."
+    },
+    {
+      "id": 8,
+      "question": "Machine Learning interview question 8?",
+      "ideal_answer": "This is a well-structured ideal answer for Machine Learning question 8."
+    },
+    {
+      "id": 9,
+      "question": "Machine Learning interview question 9?",
+      "ideal_answer": "This is a well-structured ideal answer for Machine Learning question 9."
+    },
+    {
+      "id": 10,
+      "question": "Machine Learning interview question 10?",
+      "ideal_answer": "This is a well-structured ideal answer for Machine Learning question 10."
+    },
+    {
+      "id": 11,
+      "question": "Machine Learning interview question 11?",
+      "ideal_answer": "This is a well-structured ideal answer for Machine Learning question 11."
+    },
+    {
+      "id": 12,
+      "question": "Machine Learning interview question 12?",
+      "ideal_answer": "This is a well-structured ideal answer for Machine Learning question 12."
+    },
+    {
+      "id": 13,
+      "question": "Machine Learning interview question 13?",
+      "ideal_answer": "This is a well-structured ideal answer for Machine Learning question 13."
+    },
+    {
+      "id": 14,
+      "question": "Machine Learning interview question 14?",
+      "ideal_answer": "This is a well-structured ideal answer for Machine Learning question 14."
+    },
+    {
+      "id": 15,
+      "question": "Machine Learning interview question 15?",
+      "ideal_answer": "This is a well-structured ideal answer for Machine Learning question 15."
+    },
+    {
+      "id": 16,
+      "question": "Machine Learning interview question 16?",
+      "ideal_answer": "This is a well-structured ideal answer for Machine Learning question 16."
+    },
+    {
+      "id": 17,
+      "question": "Machine Learning interview question 17?",
+      "ideal_answer": "This is a well-structured ideal answer for Machine Learning question 17."
+    },
+    {
+      "id": 18,
+      "question": "Machine Learning interview question 18?",
+      "ideal_answer": "This is a well-structured ideal answer for Machine Learning question 18."
+    },
+    {
+      "id": 19,
+      "question": "Machine Learning interview question 19?",
+      "ideal_answer": "This is a well-structured ideal answer for Machine Learning question 19."
+    },
+    {
+      "id": 20,
+      "question": "Machine Learning interview question 20?",
+      "ideal_answer": "This is a well-structured ideal answer for Machine Learning question 20."
+    },
+    {
+      "id": 21,
+      "question": "Machine Learning interview question 21?",
+      "ideal_answer": "This is a well-structured ideal answer for Machine Learning question 21."
+    },
+    {
+      "id": 22,
+      "question": "Machine Learning interview question 22?",
+      "ideal_answer": "This is a well-structured ideal answer for Machine Learning question 22."
+    },
+    {
+      "id": 23,
+      "question": "Machine Learning interview question 23?",
+      "ideal_answer": "This is a well-structured ideal answer for Machine Learning question 23."
+    },
+    {
+      "id": 24,
+      "question": "Machine Learning interview question 24?",
+      "ideal_answer": "This is a well-structured ideal answer for Machine Learning question 24."
+    },
+    {
+      "id": 25,
+      "question": "Machine Learning interview question 25?",
+      "ideal_answer": "This is a well-structured ideal answer for Machine Learning question 25."
+    },
+    {
+      "id": 26,
+      "question": "Machine Learning interview question 26?",
+      "ideal_answer": "This is a well-structured ideal answer for Machine Learning question 26."
+    },
+    {
+      "id": 27,
+      "question": "Machine Learning interview question 27?",
+      "ideal_answer": "This is a well-structured ideal answer for Machine Learning question 27."
+    },
+    {
+      "id": 28,
+      "question": "Machine Learning interview question 28?",
+      "ideal_answer": "This is a well-structured ideal answer for Machine Learning question 28."
+    },
+    {
+      "id": 29,
+      "question": "Machine Learning interview question 29?",
+      "ideal_answer": "This is a well-structured ideal answer for Machine Learning question 29."
+    },
+    {
+      "id": 30,
+      "question": "Machine Learning interview question 30?",
+      "ideal_answer": "This is a well-structured ideal answer for Machine Learning question 30."
+    },
+    {
+      "id": 31,
+      "question": "Machine Learning interview question 31?",
+      "ideal_answer": "This is a well-structured ideal answer for Machine Learning question 31."
+    },
+    {
+      "id": 32,
+      "question": "Machine Learning interview question 32?",
+      "ideal_answer": "This is a well-structured ideal answer for Machine Learning question 32."
+    },
+    {
+      "id": 33,
+      "question": "Machine Learning interview question 33?",
+      "ideal_answer": "This is a well-structured ideal answer for Machine Learning question 33."
+    },
+    {
+      "id": 34,
+      "question": "Machine Learning interview question 34?",
+      "ideal_answer": "This is a well-structured ideal answer for Machine Learning question 34."
+    },
+    {
+      "id": 35,
+      "question": "Machine Learning interview question 35?",
+      "ideal_answer": "This is a well-structured ideal answer for Machine Learning question 35."
+    },
+    {
+      "id": 36,
+      "question": "Machine Learning interview question 36?",
+      "ideal_answer": "This is a well-structured ideal answer for Machine Learning question 36."
+    },
+    {
+      "id": 37,
+      "question": "Machine Learning interview question 37?",
+      "ideal_answer": "This is a well-structured ideal answer for Machine Learning question 37."
+    },
+    {
+      "id": 38,
+      "question": "Machine Learning interview question 38?",
+      "ideal_answer": "This is a well-structured ideal answer for Machine Learning question 38."
+    },
+    {
+      "id": 39,
+      "question": "Machine Learning interview question 39?",
+      "ideal_answer": "This is a well-structured ideal answer for Machine Learning question 39."
+    },
+    {
+      "id": 40,
+      "question": "Machine Learning interview question 40?",
+      "ideal_answer": "This is a well-structured ideal answer for Machine Learning question 40."
+    },
+    {
+      "id": 41,
+      "question": "Machine Learning interview question 41?",
+      "ideal_answer": "This is a well-structured ideal answer for Machine Learning question 41."
+    },
+    {
+      "id": 42,
+      "question": "Machine Learning interview question 42?",
+      "ideal_answer": "This is a well-structured ideal answer for Machine Learning question 42."
+    },
+    {
+      "id": 43,
+      "question": "Machine Learning interview question 43?",
+      "ideal_answer": "This is a well-structured ideal answer for Machine Learning question 43."
+    },
+    {
+      "id": 44,
+      "question": "Machine Learning interview question 44?",
+      "ideal_answer": "This is a well-structured ideal answer for Machine Learning question 44."
+    },
+    {
+      "id": 45,
+      "question": "Machine Learning interview question 45?",
+      "ideal_answer": "This is a well-structured ideal answer for Machine Learning question 45."
+    },
+    {
+      "id": 46,
+      "question": "Machine Learning interview question 46?",
+      "ideal_answer": "This is a well-structured ideal answer for Machine Learning question 46."
+    },
+    {
+      "id": 47,
+      "question": "Machine Learning interview question 47?",
+      "ideal_answer": "This is a well-structured ideal answer for Machine Learning question 47."
+    },
+    {
+      "id": 48,
+      "question": "Machine Learning interview question 48?",
+      "ideal_answer": "This is a well-structured ideal answer for Machine Learning question 48."
+    },
+    {
+      "id": 49,
+      "question": "Machine Learning interview question 49?",
+      "ideal_answer": "This is a well-structured ideal answer for Machine Learning question 49."
+    },
+    {
+      "id": 50,
+      "question": "Machine Learning interview question 50?",
+      "ideal_answer": "This is a well-structured ideal answer for Machine Learning question 50."
+    },
+    {
+      "id": 51,
+      "question": "Machine Learning interview question 51?",
+      "ideal_answer": "This is a well-structured ideal answer for Machine Learning question 51."
+    },
+    {
+      "id": 52,
+      "question": "Machine Learning interview question 52?",
+      "ideal_answer": "This is a well-structured ideal answer for Machine Learning question 52."
+    },
+    {
+      "id": 53,
+      "question": "Machine Learning interview question 53?",
+      "ideal_answer": "This is a well-structured ideal answer for Machine Learning question 53."
+    },
+    {
+      "id": 54,
+      "question": "Machine Learning interview question 54?",
+      "ideal_answer": "This is a well-structured ideal answer for Machine Learning question 54."
+    },
+    {
+      "id": 55,
+      "question": "Machine Learning interview question 55?",
+      "ideal_answer": "This is a well-structured ideal answer for Machine Learning question 55."
+    },
+    {
+      "id": 56,
+      "question": "Machine Learning interview question 56?",
+      "ideal_answer": "This is a well-structured ideal answer for Machine Learning question 56."
+    },
+    {
+      "id": 57,
+      "question": "Machine Learning interview question 57?",
+      "ideal_answer": "This is a well-structured ideal answer for Machine Learning question 57."
+    },
+    {
+      "id": 58,
+      "question": "Machine Learning interview question 58?",
+      "ideal_answer": "This is a well-structured ideal answer for Machine Learning question 58."
+    },
+    {
+      "id": 59,
+      "question": "Machine Learning interview question 59?",
+      "ideal_answer": "This is a well-structured ideal answer for Machine Learning question 59."
+    },
+    {
+      "id": 60,
+      "question": "Machine Learning interview question 60?",
+      "ideal_answer": "This is a well-structured ideal answer for Machine Learning question 60."
+    },
+    {
+      "id": 61,
+      "question": "Machine Learning interview question 61?",
+      "ideal_answer": "This is a well-structured ideal answer for Machine Learning question 61."
+    },
+    {
+      "id": 62,
+      "question": "Machine Learning interview question 62?",
+      "ideal_answer": "This is a well-structured ideal answer for Machine Learning question 62."
+    },
+    {
+      "id": 63,
+      "question": "Machine Learning interview question 63?",
+      "ideal_answer": "This is a well-structured ideal answer for Machine Learning question 63."
+    },
+    {
+      "id": 64,
+      "question": "Machine Learning interview question 64?",
+      "ideal_answer": "This is a well-structured ideal answer for Machine Learning question 64."
+    },
+    {
+      "id": 65,
+      "question": "Machine Learning interview question 65?",
+      "ideal_answer": "This is a well-structured ideal answer for Machine Learning question 65."
+    },
+    {
+      "id": 66,
+      "question": "Machine Learning interview question 66?",
+      "ideal_answer": "This is a well-structured ideal answer for Machine Learning question 66."
+    },
+    {
+      "id": 67,
+      "question": "Machine Learning interview question 67?",
+      "ideal_answer": "This is a well-structured ideal answer for Machine Learning question 67."
+    },
+    {
+      "id": 68,
+      "question": "Machine Learning interview question 68?",
+      "ideal_answer": "This is a well-structured ideal answer for Machine Learning question 68."
+    },
+    {
+      "id": 69,
+      "question": "Machine Learning interview question 69?",
+      "ideal_answer": "This is a well-structured ideal answer for Machine Learning question 69."
+    },
+    {
+      "id": 70,
+      "question": "Machine Learning interview question 70?",
+      "ideal_answer": "This is a well-structured ideal answer for Machine Learning question 70."
+    }
+  ],
+  "DBMS": [
+    {
+      "id": 1,
+      "question": "DBMS interview question 1?",
+      "ideal_answer": "This is a well-structured ideal answer for DBMS question 1."
+    },
+    {
+      "id": 2,
+      "question": "DBMS interview question 2?",
+      "ideal_answer": "This is a well-structured ideal answer for DBMS question 2."
+    },
+    {
+      "id": 3,
+      "question": "DBMS interview question 3?",
+      "ideal_answer": "This is a well-structured ideal answer for DBMS question 3."
+    },
+    {
+      "id": 4,
+      "question": "DBMS interview question 4?",
+      "ideal_answer": "This is a well-structured ideal answer for DBMS question 4."
+    },
+    {
+      "id": 5,
+      "question": "DBMS interview question 5?",
+      "ideal_answer": "This is a well-structured ideal answer for DBMS question 5."
+    },
+    {
+      "id": 6,
+      "question": "DBMS interview question 6?",
+      "ideal_answer": "This is a well-structured ideal answer for DBMS question 6."
+    },
+    {
+      "id": 7,
+      "question": "DBMS interview question 7?",
+      "ideal_answer": "This is a well-structured ideal answer for DBMS question 7."
+    },
+    {
+      "id": 8,
+      "question": "DBMS interview question 8?",
+      "ideal_answer": "This is a well-structured ideal answer for DBMS question 8."
+    },
+    {
+      "id": 9,
+      "question": "DBMS interview question 9?",
+      "ideal_answer": "This is a well-structured ideal answer for DBMS question 9."
+    },
+    {
+      "id": 10,
+      "question": "DBMS interview question 10?",
+      "ideal_answer": "This is a well-structured ideal answer for DBMS question 10."
+    },
+    {
+      "id": 11,
+      "question": "DBMS interview question 11?",
+      "ideal_answer": "This is a well-structured ideal answer for DBMS question 11."
+    },
+    {
+      "id": 12,
+      "question": "DBMS interview question 12?",
+      "ideal_answer": "This is a well-structured ideal answer for DBMS question 12."
+    },
+    {
+      "id": 13,
+      "question": "DBMS interview question 13?",
+      "ideal_answer": "This is a well-structured ideal answer for DBMS question 13."
+    },
+    {
+      "id": 14,
+      "question": "DBMS interview question 14?",
+      "ideal_answer": "This is a well-structured ideal answer for DBMS question 14."
+    },
+    {
+      "id": 15,
+      "question": "DBMS interview question 15?",
+      "ideal_answer": "This is a well-structured ideal answer for DBMS question 15."
+    },
+    {
+      "id": 16,
+      "question": "DBMS interview question 16?",
+      "ideal_answer": "This is a well-structured ideal answer for DBMS question 16."
+    },
+    {
+      "id": 17,
+      "question": "DBMS interview question 17?",
+      "ideal_answer": "This is a well-structured ideal answer for DBMS question 17."
+    },
+    {
+      "id": 18,
+      "question": "DBMS interview question 18?",
+      "ideal_answer": "This is a well-structured ideal answer for DBMS question 18."
+    },
+    {
+      "id": 19,
+      "question": "DBMS interview question 19?",
+      "ideal_answer": "This is a well-structured ideal answer for DBMS question 19."
+    },
+    {
+      "id": 20,
+      "question": "DBMS interview question 20?",
+      "ideal_answer": "This is a well-structured ideal answer for DBMS question 20."
+    },
+    {
+      "id": 21,
+      "question": "DBMS interview question 21?",
+      "ideal_answer": "This is a well-structured ideal answer for DBMS question 21."
+    },
+    {
+      "id": 22,
+      "question": "DBMS interview question 22?",
+      "ideal_answer": "This is a well-structured ideal answer for DBMS question 22."
+    },
+    {
+      "id": 23,
+      "question": "DBMS interview question 23?",
+      "ideal_answer": "This is a well-structured ideal answer for DBMS question 23."
+    },
+    {
+      "id": 24,
+      "question": "DBMS interview question 24?",
+      "ideal_answer": "This is a well-structured ideal answer for DBMS question 24."
+    },
+    {
+      "id": 25,
+      "question": "DBMS interview question 25?",
+      "ideal_answer": "This is a well-structured ideal answer for DBMS question 25."
+    },
+    {
+      "id": 26,
+      "question": "DBMS interview question 26?",
+      "ideal_answer": "This is a well-structured ideal answer for DBMS question 26."
+    },
+    {
+      "id": 27,
+      "question": "DBMS interview question 27?",
+      "ideal_answer": "This is a well-structured ideal answer for DBMS question 27."
+    },
+    {
+      "id": 28,
+      "question": "DBMS interview question 28?",
+      "ideal_answer": "This is a well-structured ideal answer for DBMS question 28."
+    },
+    {
+      "id": 29,
+      "question": "DBMS interview question 29?",
+      "ideal_answer": "This is a well-structured ideal answer for DBMS question 29."
+    },
+    {
+      "id": 30,
+      "question": "DBMS interview question 30?",
+      "ideal_answer": "This is a well-structured ideal answer for DBMS question 30."
+    },
+    {
+      "id": 31,
+      "question": "DBMS interview question 31?",
+      "ideal_answer": "This is a well-structured ideal answer for DBMS question 31."
+    },
+    {
+      "id": 32,
+      "question": "DBMS interview question 32?",
+      "ideal_answer": "This is a well-structured ideal answer for DBMS question 32."
+    },
+    {
+      "id": 33,
+      "question": "DBMS interview question 33?",
+      "ideal_answer": "This is a well-structured ideal answer for DBMS question 33."
+    },
+    {
+      "id": 34,
+      "question": "DBMS interview question 34?",
+      "ideal_answer": "This is a well-structured ideal answer for DBMS question 34."
+    },
+    {
+      "id": 35,
+      "question": "DBMS interview question 35?",
+      "ideal_answer": "This is a well-structured ideal answer for DBMS question 35."
+    },
+    {
+      "id": 36,
+      "question": "DBMS interview question 36?",
+      "ideal_answer": "This is a well-structured ideal answer for DBMS question 36."
+    },
+    {
+      "id": 37,
+      "question": "DBMS interview question 37?",
+      "ideal_answer": "This is a well-structured ideal answer for DBMS question 37."
+    },
+    {
+      "id": 38,
+      "question": "DBMS interview question 38?",
+      "ideal_answer": "This is a well-structured ideal answer for DBMS question 38."
+    },
+    {
+      "id": 39,
+      "question": "DBMS interview question 39?",
+      "ideal_answer": "This is a well-structured ideal answer for DBMS question 39."
+    },
+    {
+      "id": 40,
+      "question": "DBMS interview question 40?",
+      "ideal_answer": "This is a well-structured ideal answer for DBMS question 40."
+    },
+    {
+      "id": 41,
+      "question": "DBMS interview question 41?",
+      "ideal_answer": "This is a well-structured ideal answer for DBMS question 41."
+    },
+    {
+      "id": 42,
+      "question": "DBMS interview question 42?",
+      "ideal_answer": "This is a well-structured ideal answer for DBMS question 42."
+    },
+    {
+      "id": 43,
+      "question": "DBMS interview question 43?",
+      "ideal_answer": "This is a well-structured ideal answer for DBMS question 43."
+    },
+    {
+      "id": 44,
+      "question": "DBMS interview question 44?",
+      "ideal_answer": "This is a well-structured ideal answer for DBMS question 44."
+    },
+    {
+      "id": 45,
+      "question": "DBMS interview question 45?",
+      "ideal_answer": "This is a well-structured ideal answer for DBMS question 45."
+    },
+    {
+      "id": 46,
+      "question": "DBMS interview question 46?",
+      "ideal_answer": "This is a well-structured ideal answer for DBMS question 46."
+    },
+    {
+      "id": 47,
+      "question": "DBMS interview question 47?",
+      "ideal_answer": "This is a well-structured ideal answer for DBMS question 47."
+    },
+    {
+      "id": 48,
+      "question": "DBMS interview question 48?",
+      "ideal_answer": "This is a well-structured ideal answer for DBMS question 48."
+    },
+    {
+      "id": 49,
+      "question": "DBMS interview question 49?",
+      "ideal_answer": "This is a well-structured ideal answer for DBMS question 49."
+    },
+    {
+      "id": 50,
+      "question": "DBMS interview question 50?",
+      "ideal_answer": "This is a well-structured ideal answer for DBMS question 50."
+    },
+    {
+      "id": 51,
+      "question": "DBMS interview question 51?",
+      "ideal_answer": "This is a well-structured ideal answer for DBMS question 51."
+    },
+    {
+      "id": 52,
+      "question": "DBMS interview question 52?",
+      "ideal_answer": "This is a well-structured ideal answer for DBMS question 52."
+    },
+    {
+      "id": 53,
+      "question": "DBMS interview question 53?",
+      "ideal_answer": "This is a well-structured ideal answer for DBMS question 53."
+    },
+    {
+      "id": 54,
+      "question": "DBMS interview question 54?",
+      "ideal_answer": "This is a well-structured ideal answer for DBMS question 54."
+    },
+    {
+      "id": 55,
+      "question": "DBMS interview question 55?",
+      "ideal_answer": "This is a well-structured ideal answer for DBMS question 55."
+    },
+    {
+      "id": 56,
+      "question": "DBMS interview question 56?",
+      "ideal_answer": "This is a well-structured ideal answer for DBMS question 56."
+    },
+    {
+      "id": 57,
+      "question": "DBMS interview question 57?",
+      "ideal_answer": "This is a well-structured ideal answer for DBMS question 57."
+    },
+    {
+      "id": 58,
+      "question": "DBMS interview question 58?",
+      "ideal_answer": "This is a well-structured ideal answer for DBMS question 58."
+    },
+    {
+      "id": 59,
+      "question": "DBMS interview question 59?",
+      "ideal_answer": "This is a well-structured ideal answer for DBMS question 59."
+    },
+    {
+      "id": 60,
+      "question": "DBMS interview question 60?",
+      "ideal_answer": "This is a well-structured ideal answer for DBMS question 60."
+    },
+    {
+      "id": 61,
+      "question": "DBMS interview question 61?",
+      "ideal_answer": "This is a well-structured ideal answer for DBMS question 61."
+    },
+    {
+      "id": 62,
+      "question": "DBMS interview question 62?",
+      "ideal_answer": "This is a well-structured ideal answer for DBMS question 62."
+    },
+    {
+      "id": 63,
+      "question": "DBMS interview question 63?",
+      "ideal_answer": "This is a well-structured ideal answer for DBMS question 63."
+    },
+    {
+      "id": 64,
+      "question": "DBMS interview question 64?",
+      "ideal_answer": "This is a well-structured ideal answer for DBMS question 64."
+    },
+    {
+      "id": 65,
+      "question": "DBMS interview question 65?",
+      "ideal_answer": "This is a well-structured ideal answer for DBMS question 65."
+    },
+    {
+      "id": 66,
+      "question": "DBMS interview question 66?",
+      "ideal_answer": "This is a well-structured ideal answer for DBMS question 66."
+    },
+    {
+      "id": 67,
+      "question": "DBMS interview question 67?",
+      "ideal_answer": "This is a well-structured ideal answer for DBMS question 67."
+    },
+    {
+      "id": 68,
+      "question": "DBMS interview question 68?",
+      "ideal_answer": "This is a well-structured ideal answer for DBMS question 68."
+    },
+    {
+      "id": 69,
+      "question": "DBMS interview question 69?",
+      "ideal_answer": "This is a well-structured ideal answer for DBMS question 69."
+    },
+    {
+      "id": 70,
+      "question": "DBMS interview question 70?",
+      "ideal_answer": "This is a well-structured ideal answer for DBMS question 70."
+    }
+  ]
+}
